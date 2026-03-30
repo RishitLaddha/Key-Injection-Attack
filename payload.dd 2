@@ -1,0 +1,19 @@
+REM Title: Chrome Phishing Bank Fraud Demo
+
+DELAY 1200
+
+COMMAND SPACE
+DELAY 1000
+STRING terminal
+DELAY 2000
+ENTER
+DELAY 1000
+
+DELAY 10000
+ENTER
+STRING osascript -e "set volume 7"
+ENTER
+DELAY 5000
+
+STRING open -a "Google Chrome" "https://rishitladdha.github.io/phishing-awareness-demo"
+ENTER

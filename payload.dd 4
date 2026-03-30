@@ -1,0 +1,75 @@
+
+
+REM Title: Hacker Typer
+REM Author:	UberGuidoZ
+REM Description: Opens a harmless website and types like a hacker
+
+
+DELAY 1200
+
+COMMAND SPACE
+DELAY 1000
+STRING terminal
+DELAY 2000
+ENTER
+DELAY 1000
+
+DELAY 10000
+ENTER
+STRING osascript -e "set volume 7"
+ENTER
+DELAY 5000
+
+STRING open -a "Google Chrome" "https://geektyper.com/plain"
+ENTER
+DELAY 1500
+
+DELAY 2000
+COMMAND CONTROL F
+
+DELAY 500
+STRING qwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiop
+DELAY 500
+STRING qwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiop
+DELAY 500
+STRING qwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiop
+DELAY 1500
+RIGHTARROW
+DELAY 1500
+LEFTARROW
+DELAY 1500
+STRING 3
+DELAY 1500
+SHIFT
+DELAY 1500
+STRING 1
+DELAY 1500
+STRING 6
+DELAY 1500
+STRING 4
+DELAY 1500
+STRING 2
+DELAY 1500
+STRING 5
+DELAY 1500
+STRING 7
+DELAY 1500
+STRING 9
+DELAY 1500
+STRING 8
+DELAY 5000
+BACKSPACE
+DELAY 500
+STRING qwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiop
+DELAY 500
+STRING qwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiop
+DELAY 500
+STRING qwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiop
+DELAY 500
+STRING 0
+DELAY 500
+STRING qwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiop
+DELAY 30000
+COMMAND Q
+
+
